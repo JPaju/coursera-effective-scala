@@ -3,7 +3,7 @@
 .bsp
 
 # metals
-project/metals.sbt
+*metals.sbt
 .metals
 
 # vs code
